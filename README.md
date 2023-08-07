@@ -1,16 +1,8 @@
 Hello, my name is Sophie and I'm a trans girl and your friendly (not-so local) maid, pronoums she/her. :ribbon: :gemini: :rainbow_flag:	
 
-I have been in touch with tecnology since I was little, mostly by gaming. Around 2020 I started coding, mostly by doing front-end stuff but always in touch with my "back-end" side. :computer: 
+I'm a Front-End Developer with 3 years of experience. Specialised in mobile solutions (Android and iOS) with a focus on user experience and TDD. My qualities include commitment and communication, facilitating collaboration between UX/UI and the development team as well as QA's. Expertise in finance, mobile and e-commerce. I recently refactored the login and registration flow of an app in partnership with the UX/UI team. Expertise with TDD, UX/UI skills, commitment to results and team performance.
 
-My interests are:
-  - :video_game: Gaming (obviously);
-  - :japanese_ogre:	 Anime;
-  - :iphone: Anything that is code and has something to do with mobile;
-  - :bat: Halloween.
-
-*Fun-fact: Halloween is the best day in the year and if I work with you I WILL make a halloween party!* :ghost: :ghost: :ghost:
-
-Seriously now, below there will be the tecnologies I work/study and a list of ways you can contact me. Be safe and godspeed!
+I can contribute by helping to create efficient mobile products with great user experience, increasing customer satisfaction and retention. I am looking for opportunities as a Mid-Level Developer.
 
 :mage_woman: Skills:
 
