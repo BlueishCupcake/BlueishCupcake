@@ -4,7 +4,7 @@
 ### ✨ About me
 I'm a trans girl and your friendly (not-so local) maid, pronoums she/her. :ribbon: :gemini: :rainbow_flag:	
 
-I'm a Front-End Developer with 3 years of experience. Specialised in mobile solutions (Android and iOS) with a focus on user experience and TDD. My qualities include commitment and communication, facilitating collaboration between UX/UI and the development team as well as QA's. Expertise in finance, mobile and e-commerce. I recently refactored the login and registration flow of an app in partnership with the UX/UI team. Expertise with TDD, commitment to results and team performance.
+I'm a Front-End Developer with 4 years of experience. Specialised in mobile solutions (Android and iOS) with a focus on user experience and TDD. My qualities include commitment and communication, facilitating collaboration between UX/UI and the development team as well as QA's. Expertise in finance, mobile and e-commerce. I recently refactored the login and registration flow of an app in partnership with the UX/UI team. Expertise with TDD, commitment to results and team performance.
 
 I can contribute by helping to create efficient mobile products with great user experience, increasing customer satisfaction and retention.
 
